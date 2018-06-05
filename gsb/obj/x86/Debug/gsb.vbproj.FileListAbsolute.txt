@@ -1,0 +1,57 @@
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\bin\Debug\gsb.exe
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\bin\Debug\gsb.pdb
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\bin\Debug\gsb.xml
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.Form1.resources
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.Resources.resources
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.exe
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.xml
+C:\Users\16philippit\AppData\Local\Temporary Projects\gsb\obj\x86\Debug\gsb.pdb
+C:\Users\16philippit\documents\visual studio 2010\Projects\gsb\gsb\obj\x86\Debug\gsb.exe
+C:\Users\16philippit\documents\visual studio 2010\Projects\gsb\gsb\obj\x86\Debug\gsb.xml
+C:\Users\16philippit\documents\visual studio 2010\Projects\gsb\gsb\obj\x86\Debug\gsb.pdb
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.exe
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.xml
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.pdb
+F:\16philippit\Lab\ppe3.2\gsb\gsb\bin\Debug\gsb.exe
+F:\16philippit\Lab\ppe3.2\gsb\gsb\bin\Debug\gsb.pdb
+F:\16philippit\Lab\ppe3.2\gsb\gsb\bin\Debug\gsb.xml
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.Form1.resources
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.Resources.resources
+F:\16philippit\Lab\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.exe
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.xml
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.pdb
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\bin\Debug\gsb.exe
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\bin\Debug\gsb.pdb
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\bin\Debug\gsb.xml
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.Form1.resources
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.Resources.resources
+\\bts-ad2\dp_2016$\16bellecv\PPE\ppe3.2\gsb\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.exe
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.xml
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.pdb
+G:\00Epreuve E4\Client Lourd\gsb\gsb\bin\Debug\gsb.exe
+G:\00Epreuve E4\Client Lourd\gsb\gsb\bin\Debug\gsb.pdb
+G:\00Epreuve E4\Client Lourd\gsb\gsb\bin\Debug\gsb.xml
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.Form1.resources
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.Resources.resources
+G:\00Epreuve E4\Client Lourd\gsb\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.exe
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.xml
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.pdb
+C:\Users\16philippit\Desktop\gsb\gsb\bin\Debug\gsb.exe
+C:\Users\16philippit\Desktop\gsb\gsb\bin\Debug\gsb.pdb
+C:\Users\16philippit\Desktop\gsb\gsb\bin\Debug\gsb.xml
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.Form1.resources
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.Resources.resources
+C:\Users\16philippit\Desktop\gsb\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.exe
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.xml
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.pdb
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\bin\Debug\gsb.exe
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\bin\Debug\gsb.pdb
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\bin\Debug\gsb.xml
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.Form1.resources
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.Resources.resources
+C:\Users\16YVONNOUT\Desktop\gsb\gsb\obj\x86\Debug\gsb.vbproj.GenerateResource.Cache

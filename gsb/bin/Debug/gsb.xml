@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+gsb
+</name>
+</assembly>
+<members>
+<member name="M:gsb.medicament.getCondtionnement(System.String)">
+	<summary>
+ Retourne les différents conditionnements du médicament
+ </summary>
+	<param name="medicament"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:gsb.medicament.getConditionnement">
+	<summary>
+ Retourne les conditionnements possible
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:gsb.medicament.addMedicament(System.String,System.String,System.Int32,System.Int32)">
+	<summary>
+ Ajoute un nouveau medicament à la bdd
+ </summary>
+	<param name="medicament">Nom du nouveau medicament</param>
+	<param name="conditionnement">Le conditionnement du nouveau médicament</param>
+	<remarks></remarks>
+</member><member name="M:gsb.medicament.addQuantite(System.String,System.String,System.Int32,System.String)">
+	<summary>
+ Permet d'ajouter des medicaments au stock
+ </summary>
+	<param name="medicament">Nom du medicament</param>
+	<param name="conditionnement">Le conditionnement du medicament</param>
+	<param name="quantite">La quantite qui est ajouter au stock</param>
+	<remarks></remarks>
+</member><member name="M:gsb.medicament.removeQuantite(System.String,System.String,System.Int32)">
+	<summary>
+ Permet de retirer des medicaments au stock
+ </summary>
+	<param name="medicament">Nom du medicament</param>
+	<param name="conditionnement">Le conditionnement du medicament</param>
+	<param name="quantite">La quantite qui est retirer au stock</param>
+	<remarks></remarks>
+</member><member name="M:gsb.medicament.existMedicament(System.String,System.String)">
+	<summary>
+ Retourne vrai si le medicament existe deja dans la bdd
+ </summary>
+	<param name="nom">Nom du medicament</param>
+	<returns>True / False</returns>
+	<remarks></remarks>
+</member><member name="P:gsb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:gsb.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:gsb.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
